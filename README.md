@@ -32,7 +32,7 @@ cd ~/lab-exmem-fir/testbench/counter_la_fir
 source run_clean
 source run_sim
 ```
-## What is contenct in this lab
+
 
 
 ## LAB4 實驗步驟
